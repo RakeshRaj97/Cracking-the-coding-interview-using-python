@@ -13,4 +13,3 @@ a = [
   [13,14,15,16]
 ]
 print(matrix_rotation(a))
-
